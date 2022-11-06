@@ -17,7 +17,7 @@ let iconsDict = null;
 function setupIcons(){
     iconsDict = {"icon.car": icon.car, "icon.lock": icon.lock, 
                 "icon.key": icon.key, "icon.power": icon.power,
-                "icon.inventory": "imgsrc:resources/icons/inventory.svg",
+                "icon.inventory": "imgsrc:resources/icons/inventory.svg", // You can add your own icons to the system if you want, but this was icon was removed.
                 "icon.arrowleft": icon.arrowleft2, "icon.list": icon.list,
                 "icon.play": icon.play,
                 "icon.wrench": icon.wrench, "icon.cross": icon.cross, "icon.palm": icon.palm};
