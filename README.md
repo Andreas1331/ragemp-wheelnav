@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/Andreas1331/ragemp-wheelnav"></a>
-
 <h3 align="center">RageMP wheelnav C# wrapper</h3>
 
   <p align="center">
